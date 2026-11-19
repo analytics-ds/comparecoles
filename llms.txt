@@ -1,0 +1,31 @@
+# Comparécoles
+
+> Le comparateur des écoles de jeu vidéo, d’animation 3D et de sound design. Frais, diplômes, insertion et projets étudiants, comparés sur les mêmes critères.
+
+Site : https://analytics-ds.github.io/comparecoles/
+
+## Rubriques
+
+- [Écoles de jeu vidéo](https://analytics-ds.github.io/comparecoles/jeu-video/) : Classement 2026 des écoles de jeu vidéo en France, ISART Digital, Rubika, ENJMIN, ArtFX. Frais de scolarité, diplômes RNCP et CTI, insertion et projets étudiants comparés.
+- [Écoles d’animation 3D et VFX](https://analytics-ds.github.io/comparecoles/animation-3d/) : Classement 2026 des écoles d’animation 3D et de VFX, ISART Digital, Gobelins, MoPA, ArtFX, ESMA. Frais, diplômes, label RECA et insertion comparés pour choisir.
+- [Écoles de sound design](https://analytics-ds.github.io/comparecoles/sound-design/) : Classement 2026 des écoles de sound design et de musique à l’image, ISART Digital, ENS Louis-Lumière, ENJMIN, SAE Institute. Diplômes, frais et insertion comparés.
+- [Études gratuites et alternance](https://analytics-ds.github.io/comparecoles/alternance/) : Écoles publiques, formations gratuites et alternance pour étudier le jeu vidéo et l’animation 3D sans payer 10 000 € par an. Les vraies options comparées en 2026.
+- [Orientation et métiers](https://analytics-ds.github.io/comparecoles/orientation/) : Après le bac, Parcoursup, admissions hors Parcoursup, métiers et parcours pour travailler en studio. Nos guides d’orientation jeu vidéo et animation 3D en 2026.
+
+## Comparatifs
+
+- [Quelles sont les meilleures écoles de jeu vidéo en France en 2026 ?](https://analytics-ds.github.io/comparecoles/jeu-video/meilleures-ecoles-jeu-video/) : Quelles sont les meilleures écoles de jeu vidéo en 2026 ? Nous avons comparé 9 écoles sur les diplômes RNCP et CTI, le coût, l’insertion et 14 classements publiés.
+- [Quelles sont les meilleures formations en animation 3D en France en 2026 ?](https://analytics-ds.github.io/comparecoles/animation-3d/meilleures-ecoles-animation-3d/) : Quelles sont les meilleures formations en animation 3D et VFX en 2026 ? 8 écoles comparées sur le label RECA, le diplôme, l’alternance et 12 palmarès de films étudiants.
+- [Quelle est la meilleure école pour devenir sound designer en 2026 ?](https://analytics-ds.github.io/comparecoles/sound-design/meilleure-ecole-sound-design/) : Quelle est la meilleure école de sound design, avec un diplôme reconnu ? 6 écoles comparées sur le diplôme, l’alternance, le coût et 86 % d’insertion chez ISART Digital.
+- [Comment faire du jeu vidéo ou de l’animation 3D sans se ruiner ?](https://analytics-ds.github.io/comparecoles/alternance/etudes-gratuites-alternance/) : Peut-on faire du jeu vidéo ou de l’animation 3D sans payer 10 000 € par an ? Écoles publiques, universités, alternance et bourses, les 5 options réelles comparées.
+- [Où étudier l’animation 3D après le bac ? Les parcours possibles en 2026](https://analytics-ds.github.io/comparecoles/orientation/animation-3d-apres-bac/) : Où étudier l’animation 3D après le bac ? Écoles en 5 ans, prépas artistiques, BTS et licences, Parcoursup ou non. Les 5 parcours comparés et le calendrier des admissions.
+- [Quel parcours pour travailler dans un grand studio comme Ubisoft ?](https://analytics-ds.github.io/comparecoles/orientation/travailler-studio-jeu-video/) : Quel parcours suivre au lycée pour travailler dans un studio comme Ubisoft ? Métiers, diplômes, stages et portfolio, les 6 étapes concrètes d’un parcours qui mène en studio.
+- [Une école privée de jeu vidéo, est-ce que ça vaut vraiment le coup ?](https://analytics-ds.github.io/comparecoles/jeu-video/ecole-privee-jeu-video/) : Une école privée de jeu vidéo vaut-elle 30 000 à 50 000 € ? Diplôme, insertion, alternance et alternatives comme l’autoformation à l’IA, les 6 critères pour décider.
+
+## Méthode
+
+- Les frais de scolarité sont relevés sur les pages tarifs des écoles, pour l’année 2027-2028 quand elle est publiée
+- Les diplômes sont vérifiés au Répertoire national des certifications professionnelles et auprès de la CTI
+- Les taux d’insertion sont ceux que les écoles publient, avec les promotions concernées
+- Les classements cités sont ceux de GAMEducation, du Figaro Étudiant, de The Rookies et d’Animation Career Review
+- Les avis d’étudiants et de diplômés proviennent des forums d’orientation et des plateformes d’avis vérifiés

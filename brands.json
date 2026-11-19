@@ -1,0 +1,93 @@
+[
+ {
+  "slug": "isart",
+  "name": "ISART Digital",
+  "domain": "isart.fr",
+  "wiki": "ISART Digital",
+  "role": "client"
+ },
+ {
+  "slug": "rubika",
+  "name": "Rubika",
+  "domain": "rubika-edu.com",
+  "wiki": "Rubika",
+  "role": "competitor"
+ },
+ {
+  "slug": "gobelins",
+  "name": "Gobelins",
+  "domain": "gobelins.fr",
+  "wiki": "Gobelins, l'école de l'image",
+  "role": "competitor"
+ },
+ {
+  "slug": "enjmin",
+  "name": "ENJMIN",
+  "domain": "enjmin.cnam.fr",
+  "wiki": "École nationale du jeu et des médias interactifs numériques",
+  "role": "competitor"
+ },
+ {
+  "slug": "artfx",
+  "name": "ArtFX",
+  "domain": "artfx.fr",
+  "wiki": "ArtFX",
+  "role": "competitor"
+ },
+ {
+  "slug": "esma",
+  "name": "ESMA",
+  "domain": "esma-artistique.com",
+  "wiki": "École supérieure des métiers artistiques",
+  "role": "competitor"
+ },
+ {
+  "slug": "lisaa",
+  "name": "LISAA",
+  "domain": "lisaa.com",
+  "wiki": "",
+  "role": "competitor"
+ },
+ {
+  "slug": "e-artsup",
+  "name": "e-artsup",
+  "domain": "e-artsup.net",
+  "wiki": "E-artsup",
+  "role": "competitor"
+ },
+ {
+  "slug": "creative-seeds",
+  "name": "Creative Seeds",
+  "domain": "creativeseeds.fr",
+  "wiki": "",
+  "role": "competitor"
+ },
+ {
+  "slug": "mopa",
+  "name": "MoPA",
+  "domain": "ecolemopa.fr",
+  "wiki": "",
+  "role": "competitor"
+ },
+ {
+  "slug": "sae",
+  "name": "SAE Institute",
+  "domain": "sae.fr",
+  "wiki": "SAE Institute",
+  "role": "competitor"
+ },
+ {
+  "slug": "louis-lumiere",
+  "name": "ENS Louis-Lumière",
+  "domain": "ens-louis-lumiere.fr",
+  "wiki": "École nationale supérieure Louis-Lumière",
+  "role": "competitor"
+ },
+ {
+  "slug": "3is",
+  "name": "3iS",
+  "domain": "3is.fr",
+  "wiki": "",
+  "role": "competitor"
+ }
+]

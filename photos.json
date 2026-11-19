@@ -1,0 +1,374 @@
+{
+ "hero-bg.jpg": {
+  "q": "game design students team",
+  "w": 2400,
+  "h": 1600,
+  "alt": "Étudiants qui travaillent sur un jeu vidéo en salle informatique"
+ },
+ "cat-jeu-video-hero.jpg": {
+  "q": "game developer two monitors",
+  "w": 2000,
+  "h": 900,
+  "alt": "Étudiant qui teste un jeu vidéo sur deux écrans"
+ },
+ "cat-jeu-video.jpg": {
+  "q": "gamer developer computer setup",
+  "w": 760,
+  "h": 720,
+  "alt": "Étudiant qui teste un jeu vidéo sur deux écrans"
+ },
+ "cat-animation-3d-hero.jpg": {
+  "q": "3d animator tablet",
+  "w": 2000,
+  "h": 900,
+  "alt": "Animatrice qui travaille un personnage 3D sur sa tablette graphique"
+ },
+ "cat-animation-3d.jpg": {
+  "q": "animator drawing tablet desk",
+  "w": 760,
+  "h": 720,
+  "alt": "Animatrice qui travaille un personnage 3D sur sa tablette graphique"
+ },
+ "cat-sound-design-hero.jpg": {
+  "q": "sound engineer mixing console",
+  "w": 2000,
+  "h": 900,
+  "alt": "Étudiant en studio son devant une console de mixage"
+ },
+ "cat-sound-design.jpg": {
+  "q": "sound engineer mixing console",
+  "w": 760,
+  "h": 720,
+  "alt": "Étudiant en studio son devant une console de mixage"
+ },
+ "cat-alternance-hero.jpg": {
+  "q": "apprentice designer mentor",
+  "w": 2000,
+  "h": 900,
+  "alt": "Apprenti en studio de création à côté de son tuteur"
+ },
+ "cat-alternance.jpg": {
+  "q": "apprentice designer mentor",
+  "w": 760,
+  "h": 720,
+  "alt": "Apprenti en studio de création à côté de son tuteur"
+ },
+ "cat-orientation-hero.jpg": {
+  "q": "student laptop career",
+  "w": 2000,
+  "h": 900,
+  "alt": "Lycéenne qui consulte des formations sur son ordinateur"
+ },
+ "cat-orientation.jpg": {
+  "q": "student laptop career",
+  "w": 760,
+  "h": 720,
+  "alt": "Lycéenne qui consulte des formations sur son ordinateur"
+ },
+ "sub-gamedesign.jpg": {
+  "q": "game design sketch paper",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-gameart.jpg": {
+  "q": "digital painting tablet",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-prog.jpg": {
+  "q": "programmer code screen",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-prod.jpg": {
+  "q": "team meeting whiteboard",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-public.jpg": {
+  "q": "university building entrance",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-paris.jpg": {
+  "q": "paris street students",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-admission.jpg": {
+  "q": "job interview portfolio",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-cinema.jpg": {
+  "q": "animation film storyboard",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-vfx.jpg": {
+  "q": "visual effects green screen",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-2d.jpg": {
+  "q": "animator drawing light table",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-reca.jpg": {
+  "q": "film festival audience",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-bac.jpg": {
+  "q": "happy students exam results",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-montpellier.jpg": {
+  "q": "montpellier city square",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-portfolio.jpg": {
+  "q": "drawing sketchbook",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-gameaudio.jpg": {
+  "q": "headphones game audio",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-musique.jpg": {
+  "q": "composer piano studio",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-diplome.jpg": {
+  "q": "graduate holding diploma",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-alternance.jpg": {
+  "q": "apprentice office mentor",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-materiel.jpg": {
+  "q": "studio microphone",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-metiersson.jpg": {
+  "q": "foley artist recording",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-gratuit.jpg": {
+  "q": "library students studying",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-bourse.jpg": {
+  "q": "student counting money",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-universite.jpg": {
+  "q": "university lecture hall",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-financement.jpg": {
+  "q": "piggy bank coins",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-autodidacte.jpg": {
+  "q": "learning online laptop night",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-parcoursup.jpg": {
+  "q": "teenager laptop desk",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-metiersjv.jpg": {
+  "q": "game developers office",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-metiersanim.jpg": {
+  "q": "animation studio artists",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-studio.jpg": {
+  "q": "game studio open space",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-salaire.jpg": {
+  "q": "euro banknotes",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "art-1.jpg": {
+  "q": "students game prototype test",
+  "w": 1300,
+  "h": 860,
+  "alt": "Étudiants qui testent un prototype de jeu vidéo en salle de cours"
+ },
+ "in-meilleures-ecoles-jeu-video-1.jpg": {
+  "q": "digital painting character tablet",
+  "w": 1200,
+  "h": 700,
+  "alt": "Étudiante qui dessine un personnage de jeu sur tablette graphique"
+ },
+ "in-meilleures-ecoles-jeu-video-2.jpg": {
+  "q": "young developer game studio",
+  "w": 1200,
+  "h": 700,
+  "alt": "Apprenti développeur dans un studio de jeu vidéo"
+ },
+ "art-2.jpg": {
+  "q": "3d animation workstation",
+  "w": 1300,
+  "h": 860,
+  "alt": "Animatrice qui règle la pose d’un personnage 3D sur deux écrans"
+ },
+ "in-meilleures-ecoles-animation-3d-1.jpg": {
+  "q": "students screening room",
+  "w": 1200,
+  "h": 700,
+  "alt": "Étudiants qui regardent un plan d’animation sur grand écran"
+ },
+ "in-meilleures-ecoles-animation-3d-2.jpg": {
+  "q": "animator studio desk",
+  "w": 1200,
+  "h": 700,
+  "alt": "Jeune animateur dans un studio d’animation"
+ },
+ "art-3.jpg": {
+  "q": "foley recording studio",
+  "w": 1300,
+  "h": 860,
+  "alt": "Sound designer qui enregistre des bruitages en studio"
+ },
+ "in-meilleure-ecole-sound-design-1.jpg": {
+  "q": "mixing console studio",
+  "w": 1200,
+  "h": 700,
+  "alt": "Console de mixage dans un studio son"
+ },
+ "in-meilleure-ecole-sound-design-2.jpg": {
+  "q": "musician midi keyboard studio",
+  "w": 1200,
+  "h": 700,
+  "alt": "Étudiante qui compose de la musique sur un clavier relié à un ordinateur"
+ },
+ "art-4.jpg": {
+  "q": "student laptop library",
+  "w": 1300,
+  "h": 860,
+  "alt": "Étudiante qui travaille sur un ordinateur portable dans une bibliothèque universitaire"
+ },
+ "in-etudes-gratuites-alternance-1.jpg": {
+  "q": "university lecture hall",
+  "w": 1200,
+  "h": 700,
+  "alt": "Amphithéâtre universitaire pendant un cours"
+ },
+ "in-etudes-gratuites-alternance-2.jpg": {
+  "q": "apprentice 3d designer mentor",
+  "w": 1200,
+  "h": 700,
+  "alt": "Apprentie qui travaille sur un projet 3D aux côtés de son tuteur"
+ },
+ "art-5.jpg": {
+  "q": "teenager drawing sketchbook",
+  "w": 1300,
+  "h": 860,
+  "alt": "Lycéen qui dessine dans un carnet de croquis"
+ },
+ "in-animation-3d-apres-bac-1.jpg": {
+  "q": "life drawing class",
+  "w": 1200,
+  "h": 700,
+  "alt": "Étudiants en cours de dessin d’observation"
+ },
+ "in-animation-3d-apres-bac-2.jpg": {
+  "q": "character sketches table",
+  "w": 1200,
+  "h": 700,
+  "alt": "Planches de dessins de personnages étalées sur une table"
+ },
+ "art-6.jpg": {
+  "q": "game studio team meeting",
+  "w": 1300,
+  "h": 860,
+  "alt": "Équipe de développeurs en réunion dans un studio de jeu vidéo"
+ },
+ "in-travailler-studio-jeu-video-1.jpg": {
+  "q": "game jam participants",
+  "w": 1200,
+  "h": 700,
+  "alt": "Étudiants qui présentent un prototype de jeu à un jury"
+ },
+ "in-travailler-studio-jeu-video-2.jpg": {
+  "q": "gaming convention visitors",
+  "w": 1200,
+  "h": 700,
+  "alt": "Visiteurs qui testent des jeux sur un salon professionnel"
+ },
+ "art-7.jpg": {
+  "q": "student game engine screen",
+  "w": 1300,
+  "h": 860,
+  "alt": "Étudiant concentré devant un moteur de jeu sur son écran"
+ },
+ "in-ecole-privee-jeu-video-1.jpg": {
+  "q": "students team project computers",
+  "w": 1200,
+  "h": 700,
+  "alt": "Étudiants qui travaillent ensemble sur un jeu en salle de projet"
+ },
+ "in-ecole-privee-jeu-video-2.jpg": {
+  "q": "programmer coding office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Jeune développeur en alternance dans un open space de studio"
+ }
+}
